@@ -1,7 +1,7 @@
 
 exports.operations=[
     (fileInfo,options) => {
-        
+
     }
 ]
 exports.appender ={
